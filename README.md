@@ -1,7 +1,5 @@
-<h1 align="center">Hey there! I'm Sanket Padhyal 👾</h1>
-<p align="center">
-  🧪 Code Alchemist | 🌍 Living in 127.0.0.1 | 🕶️ Probably debugging right now
-</p>
+<h1 align="center">Hey there, I'm Sanket 👨‍💻</h1>
+<p align="center">CS Student | Future DevOps Wizard 🛠️ | Currently debugging my destiny 😄</p>
 
 ---
 
