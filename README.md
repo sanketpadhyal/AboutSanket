@@ -8,7 +8,7 @@
 - 🌱 Exploring: AI, Cloud, Cybersecurity
 - 💡 Building: Mini projects to sharpen my dev skills
 - 💬 Ask me about: How to start from scratch 😎 in real im too askin' myself
-- 📫 Reach me: vortexbyte.code@gmail.com
+- 📫 Reach me: mrsanketpadhyal@gmail.com / sanketpadhyal@icloud.com
 
 ---
 
