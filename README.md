@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Sanket 👨‍💻</h1>
+<h1 align="center">Hey there, I'm Sanket Padhyal 👨‍💻</h1>
 <p align="center">CS Student | Future DevOps Wizard 🛠️ | Currently debugging my destiny 😄</p>
 
 ---
@@ -18,16 +18,13 @@
 - **Backend Tools:** Node.js, Express.js
 - **Design:** Figma, Glassmorphism, UI Animation
 - **Others:** REST APIs, JSON, Git
-- **Hosting:** I Use NETLIFY for hosting Frontend.
-- **Backend Hosting:** I Use REPLIT for hosting Backend.
+- **Hosting:** Netlify (Frontend), Replit (Backend)
 
 ---
 
 ## 📫 Connect with Me
 - GitHub: [github.com/sanketpadhyal](https://github.com/sanketpadhyal)  
-- LinkedIn: Not Using.  
 - Email: sanketpadhyal3@gmail.com
-  
 
 ---
 
