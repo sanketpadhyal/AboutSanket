@@ -3,18 +3,32 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently learning: {updation soon} tbh just a timepass coder and debugger rn!! 
-- 🌱 Exploring: AI, Cloud, Cybersecurity
-- 💡 Building: Mini projects to sharpen my dev skills
-- 💬 Ask me about: How to start from scratch 😎 in real im too askin' myself
-- I Love building useful pkg for github 😄
-- 📫 Reach me: mrsanketpadhyal@gmail.com / sanketpadhyal@icloud.com
+## 🚀 About Me
+- 💡 Always exploring **modern frontend tech** and design trends  
+- 🎨 Passionate about **UI/UX and glassmorphism effects**  
+- 🛠 Skilled in **HTML, CSS, JavaScript, and modern frameworks**  
+- 📈 Love building **real-time and interactive web apps**  
+- 💬 Open to collaborations on **creative frontend projects**  
 
 ---
 
-### 🛠️ Tech Stack
-```bash
-🧠 Languages:     Python (Basic)
-🧰 Tools:         Git | VS Code | Replit | Canva
-🌐 Web Stuff:     HTML | CSS | Bootstrap
+## 🛠 Tech Skills
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frontend Tools:** React.js, Tailwind CSS, Bootstrap
+- **Backend Tools:** Node.js, Express.js
+- **Design:** Figma, Glassmorphism, UI Animation
+- **Others:** REST APIs, JSON, Git
+- **Hosting:** I Use NETLIFY for hosting Frontend.
+- **Backend Hosting:** I Use REPLIT for hosting Backend.
+
+---
+
+## 📫 Connect with Me
+- GitHub: [github.com/sanketpadhyal](https://github.com/sanketpadhyal)  
+- LinkedIn: Not Using.  
+- Email: sanketpadhyal3@gmail.com
+  
+
+---
+
+⭐ *"Frontend isn’t just about code — it’s about crafting experiences users love."*
